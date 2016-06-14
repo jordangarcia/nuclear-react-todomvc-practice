@@ -1,0 +1,27 @@
+{
+  "name": "amy-todo-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.1.0",
+    "gulp-shell": "^0.5.2",
+    "keymirror": "^0.1.1",
+    "lodash": "^4.13.1",
+    "nuclear-js": "^1.3.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "webpack": "^1.13.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
